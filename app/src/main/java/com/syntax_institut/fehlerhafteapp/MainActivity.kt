@@ -46,7 +46,7 @@ class MainActivity : AppCompatActivity() {
      */
 
     // Das Array in dem die Nummern gespeichert werden
-    private val numbers = arrayOfNulls<Int>(4)
+    private val numbers = arrayOfNulls<Int>(6)
 
     // Die Variable die den Index speichert
     private var arrayIndexCounter = 0
